@@ -22,7 +22,7 @@ header{
     line-height: 23.8px;
     width: 75%;
     margin: auto auto;
-    background-image: url(../images/banner.png), linear-gradient(rgba(0, 0, 0, 0.6), rgba(49, 168, 221, 0.4), rgba(0, 0, 0, 0.2))  ;
+    background-image: url(../assets/images/banner.png), linear-gradient(rgba(0, 0, 0, 0.6), rgba(49, 168, 221, 0.4), rgba(0, 0, 0, 0.2))  ;
 
     
 }
@@ -106,7 +106,7 @@ header{
 }
 
 #transform-world{
-    background-image: url(../images/woman-code.png);
+    background-image: url(../assets/images/woman-code.png);
     background-size: cover;
     background-position: center -430px;
     background-repeat: no-repeat;
